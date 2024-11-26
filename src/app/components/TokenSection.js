@@ -130,7 +130,7 @@ const TokenSection = () => {
                             className="bg-[#5B5B6C4F] ml-5 mt-3 w-[406px] h-[99.92px] text-lime-500 px-6 py-3 rounded-full text-center font-bold hover:bg-gray-800 transition flex items-center justify-center space-x-6"
                         >
                             <img
-                                src="/MaskGroup3.png"
+                                src="/Maskgroup3.png"
                                 alt="Gear Icon"
                                 className="h-[75.45px] w-[91.07px] -ml-[40px]"
                             />
