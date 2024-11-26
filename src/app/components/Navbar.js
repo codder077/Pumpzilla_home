@@ -22,14 +22,14 @@ export default function Navbar() {
                     {/* Icon Buttons */}
                     <button className="bg-[#1D1D1D] rounded-full w-10 h-10 flex items-center justify-center hover:bg-gray-800">
                     <img
-                    src="/assets/twitter logo 1.png" // Replace with your logo's path
+                    src="/assets/twitterlogo1.png" // Replace with your logo's path
                     alt="Pumpzilla Logo"
                     className="h-4 w-auto"
                 />
                     </button>
                     <button className="bg-[#1D1D1D] rounded-full w-10 h-10 flex items-center justify-center hover:bg-gray-800">
                         <img
-                            src="/assets/Mask group 2.png" // Replace with your Telegram icon's path
+                            src="/assets/Maskgroup2.png" // Replace with your Telegram icon's path
                             alt="Telegram Icon"
                             className="w-5 h-5"
                         />

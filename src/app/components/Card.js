@@ -20,13 +20,13 @@ export default function Card({ data }) {
           </div>
           <div className=" top-[60px] left-2 flex flex-row space-x-2 ">
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/web logo 1.png" alt="World Icon" className="h-3 w-3" />
+                            <img src="/assets/weblogo1.png" alt="World Icon" className="h-3 w-3" />
                         </div>
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/twitter logo 1.png" alt="X Icon" className="h-3 w-3" />
+                            <img src="/assets/twitterlogo1.png" alt="X Icon" className="h-3 w-3" />
                         </div>
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/Mask group 2.png" alt="Telegram Icon" className="h-3 w-3" />
+                            <img src="/assets/Maskgroup2.png" alt="Telegram Icon" className="h-3 w-3" />
                         </div>
                     </div>
         </div>
