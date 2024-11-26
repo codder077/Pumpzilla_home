@@ -9,7 +9,7 @@ import { useState } from 'react';
 
 const cardData = Array.from({ length: 84 }).map((_, idx) => ({
   timeAgo: "1 hr 25 mins ago",
-  image: "/assets/nft.png", // Replace with actual image URL
+  image: "/nft.png", // Replace with actual image URL
   title: "CAT SWAP PROMOTION",
   creator: `0xcb455..${4586 + idx}`,
   description:

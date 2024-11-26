@@ -29,7 +29,7 @@ const Modal = ({ isOpen, onClose }) => {
                     <div className="mt-8 flex flex-col items-center">
                         <div className="relative">
                             <img
-                                src="/assets/Flowchart.png" // Replace with the actual path of your flowchart image
+                                src="/Flowchart.png" // Replace with the actual path of your flowchart image
                                 alt="Flowchart"
                                 className="w-[300px] md:w-[400px]"
                             />

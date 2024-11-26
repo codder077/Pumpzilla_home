@@ -44,7 +44,7 @@ const TokenSection = () => {
 =
                     <div className="absolute left-[-27px] top-[-27px] h-[70px] w-[70px] flex items-center justify-center">
                         <img
-                            src="/assets/Frame263.png" // Replace with the correct path
+                            src="/Frame263.png" // Replace with the correct path
                             alt="Creator Avatar"
                             className="h-16 w-16 rounded-full border-2 border-lime-500 bg-gray-900"
                         />
@@ -60,19 +60,19 @@ const TokenSection = () => {
 
                     <div className="  absolute top-[60px] left-2 flex flex-col space-y-3 ">
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/weblogo1.png" alt="World Icon" className="h-3 w-3" />
+                            <img src="/weblogo1.png" alt="World Icon" className="h-3 w-3" />
                         </div>
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/twitterlogo1.png" alt="X Icon" className="h-3 w-3" />
+                            <img src="/twitterlogo1.png" alt="X Icon" className="h-3 w-3" />
                         </div>
                         <div className="h-6 w-6 bg-black rounded-full flex items-center justify-center">
-                            <img src="/assets/Maskgroup2.png" alt="Telegram Icon" className="h-3 w-3" />
+                            <img src="/Maskgroup2.png" alt="Telegram Icon" className="h-3 w-3" />
                         </div>
                     </div>
 
                     <div className="flex items-center  justify-center mt-4 ">
                         <img
-                            src="/assets/nft.png"
+                            src="/nft.png"
                             alt="NFT Promo"
                             className="w-[126.95px] h-[111.34px] rounded-lg"
                         />
@@ -130,7 +130,7 @@ const TokenSection = () => {
                             className="bg-[#5B5B6C4F] ml-5 mt-3 w-[406px] h-[99.92px] text-lime-500 px-6 py-3 rounded-full text-center font-bold hover:bg-gray-800 transition flex items-center justify-center space-x-6"
                         >
                             <img
-                                src="/assets/MaskGroup3.png"
+                                src="/MaskGroup3.png"
                                 alt="Gear Icon"
                                 className="h-[75.45px] w-[91.07px] -ml-[40px]"
                             />
