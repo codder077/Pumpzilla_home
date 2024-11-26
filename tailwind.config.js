@@ -10,6 +10,12 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'real-blue': '#5B5B6C4F'
+      },
+      fontFamily: {
+        montserrat: ['Montserrat', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        Bebas : ['Bebas Neue', 'cursive']
       },
     },
   },
